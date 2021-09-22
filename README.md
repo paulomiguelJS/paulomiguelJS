@@ -20,5 +20,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/paulo-miguel-b9a54697/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paulomiguel" height="20" width="20" /></a>
-<a href="https://instagram.com/paulomiguelblues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="paulomiguelblues" height="20" width="20" /></a>
+<a href="https://instagram.com/paulomiguelblues" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="paulomiguelblues" color="white" height="20" width="20" /></a>
 </p>

@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I'm currently learning SASS, JAVASCRIPT and REACT.
+- 🔭 I'm currently learning JAVASCRIPT and REACT.
 
 - 👨‍💻 My main goal is become a front-end developer.
 

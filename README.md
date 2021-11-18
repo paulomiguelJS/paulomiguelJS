@@ -10,18 +10,18 @@
 
 <br/>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/paulomigueljs/paulomigueljs/blob/master/icons/vscode.png" />
-<img align="left" alt="HTML5" width="26px" src="https://github.com/paulomigueljs/paulomigueljs/blob/master/icons/html5.png" />
-<img align="left" alt="CSS3" width="26px" src="https://github.com/paulomigueljs/paulomigueljs/blob/master/icons/css3.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://github.com/paulomigueljs/paulomigueljs/blob/master/icons/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://github.com/paulomigueljs/paulomigueljs/blob/master/icons/react.png" />
-<img align="left" alt="GitHub" width="26px" src="https://github.com/paulomigueljs/paulomigueljs/blob/master/icons/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://github.com/paulomigueljs/paulomigueljs/blob/master/icons/terminal.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/master/icons/vscode.png" />
+<img align="left" alt="HTML5" width="26px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/master/icons/html5.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/master/icons/css3.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/master/icons/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/master/icons/react.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/master/icons/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/master/icons/terminal.png" />
 
 <br />
 <br />
 
 ### Connect with me:
 
-[<img align="left" alt="paulomigueljs | LinkedIn" width="22px" src="https://github.com/paulomigueljs/paulomigueljs/blob/master/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="paulomigueljs | Outlook" width="22px" src="https://github.com/paulomigueljs/paulomigueljs/blob/master/icons/gmail.png" />](mailto:paulomiguelblues@gmail.com)
+[<img align="left" alt="paulomiguelJS | LinkedIn" width="22px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/master/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="paulomiguelJS | Outlook" width="22px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/master/icons/gmail.png" />](mailto:paulomiguelblues@.com)

@@ -1,6 +1,8 @@
 <h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/main/hi.gif" width="30px">, I'm Paulo Miguel</h1>
 
-- 🔭 I'm currently learning JAVASCRIPT and REACT.
+- 👱🏻 I'm 30 years old, brazilian and living in Andover - MA - United States.
+
+- 🔭 I'm currently learning/practicing JAVASCRIPT and REACT.
 
 - 👨‍💻 My main goal is become a front-end developer.
 
@@ -19,5 +21,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="paulomiguelJS | LinkedIn" width="22px" <a> https://www.linkedin.com/in/paulo-miguel-b9a54697/<a/> src="https://github.com/paulomiguelJS/paulomiguelJS/blob/main/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="paulomiguelJS | LinkedIn" width="22px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/main/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="paulomiguelJS | Outlook" width="22px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/main/icons/gmail.png" />](mailto:paulomiguelblues@.com)
+
+[linkedin]: https://www.linkedin.com/in/paulo-miguel-b9a54697/

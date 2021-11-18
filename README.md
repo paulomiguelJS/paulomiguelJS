@@ -1,4 +1,4 @@
-<h1 align="center">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/main/hi.gif" width="30px">, I'm Paulo Miguel</h1>
+<h1 align="center">Hi there 👋, I'm Paulo Miguel</h1>
 
 - 👱🏻 I'm 30 years old, brazilian and living in Andover - MA - United States.
 

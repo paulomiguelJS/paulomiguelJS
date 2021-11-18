@@ -24,10 +24,6 @@
 <br />
 <br />
   
-<a href="/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paulomiguel" height="20" width="20" /></a>
 
 
-### Connect with me:
-
-<img align="left" alt="paulomiguel | LinkedIn" width="22px" src="https://www.linkedin.com/in/paulo-miguel-b9a54697" />
 

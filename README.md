@@ -4,11 +4,7 @@
 
 - 👨‍💻 My main goal is become a front-end developer.
 
-- 📫 How to reach me **paulomiguelblues@gmail.com**
-
 ### Languages and Tools:
-
-<br/>
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/main/icons/vscode.png" />
 <img align="left" alt="HTML5" width="26px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/main/icons/html5.png" />
@@ -23,5 +19,5 @@
 
 ### Connect with me:
 
-[<img align="left" alt="paulomiguelJS | LinkedIn" width="22px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/main/icons/linkedin.png" />][linkedin]
+[<img align="left" alt="paulomiguelJS | LinkedIn" width="22px" <a> https://www.linkedin.com/in/paulo-miguel-b9a54697/<a/> src="https://github.com/paulomiguelJS/paulomiguelJS/blob/main/icons/linkedin.png" />][linkedin]
 [<img align="left" alt="paulomiguelJS | Outlook" width="22px" src="https://github.com/paulomiguelJS/paulomiguelJS/blob/main/icons/gmail.png" />](mailto:paulomiguelblues@.com)

@@ -20,11 +20,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/gabriellukke/gabriellukke/blob/master/icons/terminal.png" />
 
-<p align="center">
   
 <br />
 <br />
-[linkedin]:  https://www.linkedin.com/in/paulo-miguel-b9a54697/
-
-
-https://www.linkedin.com/in/gabriel-lucas-oliveira-almeida/
+  
+<a href="https://www.linkedin.com/in/paulo-miguel-b9a54697/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="paulomiguel" height="20" width="20" /></a>

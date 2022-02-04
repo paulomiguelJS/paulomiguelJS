@@ -4,7 +4,11 @@
 
 - 🔭 I'm currently learning/practicing JAVASCRIPT and REACT.
 
-- 👨‍💻 My main goal is become a front-end developer.
+- :mag_right: The next technologies I'm going to learn are NextJS, GraphQl, and Typescript.
+
+- 👨‍💻 My main goal is become a front-end developer
+
+
 
 ### Languages and Tools:
 

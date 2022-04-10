@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Paulo Miguel</h1>
 
-- 👱🏻 I'm 30 years old, brazilian and living in Andover - MA - United States.
+- 👱🏻 I'm 31 years old, brazilian and living in Andover - MA - United States.
 
 - 🔭 I'm currently learning/practicing JAVASCRIPT and REACT.
 

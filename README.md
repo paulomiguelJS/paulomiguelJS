@@ -2,11 +2,11 @@
 
 - 👱🏻 I'm 31 years old, brazilian and living in Andover - MA - United States.
 
-- 🔭 I'm currently learning/practicing JAVASCRIPT and REACT.
+- 🔭 I'm Front-End Developer, working with JAVASCRIPT and REACT, AEM, and more.
 
 - :mag_right: The next technologies I'm going to learn are NextJS, GraphQl, and Typescript.
 
-- 👨‍💻 My main goal is become a front-end developer
+- 👨‍💻 My main goal is become a Full Stack Developer.
 
 
 
